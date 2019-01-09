@@ -1,0 +1,11 @@
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.deps.json
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.runtimeconfig.json
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.runtimeconfig.dev.json
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.dll
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.pdb
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.AssemblyInfo.cs
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.dll
+C:\Users\Malik Whitfield\source\codeworks\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.pdb
